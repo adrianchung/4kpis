@@ -19,6 +19,17 @@
   "author": "Adrian Chung",
   "license": "MIT",
   "devDependencies": {
+    "@types/jira-client": "^6.4.4",
+    "@types/pretty-ms": "^4.0.0",
+    "@types/readline-sync": "^1.4.3",
     "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "@types/argparse": "^1.0.36",
+    "argparse": "^1.0.10",
+    "jira-client": "^6.7.1",
+    "pretty-ms": "^5.0.0",
+    "readline-sync": "^1.4.9",
+    "simple-statistics": "^7.0.2"
   }
 }
